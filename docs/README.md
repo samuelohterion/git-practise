@@ -25,5 +25,8 @@ git clone https://github.com/samuelohterion/git-practise.git
 4. > git add .
 5. > git commit -m "update README.md LOG3"
 6. > git push
+## now force a conflict
+edit README.md, add and commit LOG6local
+analogous in local repo
 
 
