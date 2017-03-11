@@ -34,3 +34,7 @@ analogous in local repo
 
 >>>>>>> 830f9130bd4bd391ee1af36395a62d36704d520d
 
+here it goes forward
+some changes
+some more changes after git add but before commit
+

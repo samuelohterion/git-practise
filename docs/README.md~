@@ -27,5 +27,12 @@ git clone https://github.com/samuelohterion/git-practise.git
 6. > git push
 ## now force a conflict
 edit README.md, add and commit LOG6local
-the same on github
+<<<<<<< HEAD
+analogous on github
+=======
+analogous in local repo
+
+>>>>>>> 830f9130bd4bd391ee1af36395a62d36704d520d
+
+here it goes forward
 
