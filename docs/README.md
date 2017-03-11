@@ -11,20 +11,19 @@ Here i log what i've done to come to where
 git clone https://github.com/samuelohterion/git-practise.git
 ## prepare github pages via docs folder
 - in local git-practise directory
-> mkdir docs
-> mv README.md docs/
-> git add .
-> git commit -m "create /docs and move README.md into it"
-> git push
+- > mkdir docs
+- > mv README.md docs/
+- > git add .
+- > git commit -m "create /docs and move README.md into it"
+- > git push
 - on github edit README.md
 - pull the repo
-> git pull
-> gedit /docs/README.md
-Write this here
-
+- > git pull
+- > gedit /docs/README.md
+- Write this here
 - Save, leave
-> git add .
-> git commit -m "update README.md LOG3"
-> git push
+- > git add .
+- > git commit -m "update README.md LOG3"
+- > git push
 
 
