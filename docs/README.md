@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/samuelohterion/git-practise/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
+Remember link: [editor on GitHub](https://github.com/samuelohterion/git-practise/edit/master/docs/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### This is my practise git page
 
-### Markdown
+Here i log what i've done to come to where
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/samuelohterion/git-practise/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# LOG
+## First clone repo from github
+git clone https://github.com/samuelohterion/git-practise.git
+## prepare github pages via docs folder
+- in local git-practise directory
+> mkdir docs
+> mv README.md docs/
+> git add .
+> git commit -m "create /docs and move README.md into it"
+> git push
+- on github edit README.md
