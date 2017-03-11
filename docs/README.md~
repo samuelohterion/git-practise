@@ -17,14 +17,3 @@ git clone https://github.com/samuelohterion/git-practise.git
 > git commit -m "create /docs and move README.md into it"
 > git push
 - on github edit README.md
-- pull the repo
-> git pull
-> gedit /docs/README.md
-Write this here
-
-- Save, leave
-> git add .
-> git commit -m "update README.md LOG3"
-> git push
-
-
