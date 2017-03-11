@@ -10,20 +10,22 @@ Here i log what i've done to come to where
 ## First clone repo from github
 git clone https://github.com/samuelohterion/git-practise.git
 ## prepare github pages via docs folder
-- in local git-practise directory
-- > mkdir docs
-- > mv README.md docs/
-- > git add .
-- > git commit -m "create /docs and move README.md into it"
-- > git push
-- on github edit README.md
-- pull the repo
-- > git pull
-- > gedit /docs/README.md
+### in local git-practise directory
+1. > mkdir docs
+2. > mv README.md docs/
+3. > git add .
+4. > git commit -m "create /docs and move README.md into it"
+5. > git push
+### on github edit README.md
+1. pull the repo
+2. > git pull
+3. > gedit /docs/README.md
 - Write this here
 - Save, leave
-- > git add .
-- > git commit -m "update README.md LOG3"
-- > git push
-
+4. > git add .
+5. > git commit -m "update README.md LOG3"
+6. > git push
+## now force a conflict
+edit README.md, add and commit LOG6local
+the same on github
 
